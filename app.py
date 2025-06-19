@@ -44,4 +44,4 @@ else:
             st.markdown(call.get("summary"))
 
             st.subheader("Score")
-            st.metric("Score", call.get("successEvaluation"), border=True)
+            st.metric("Score", call['analysis']['successEvaluation'], border=True)
