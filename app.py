@@ -42,3 +42,6 @@ else:
 
             st.subheader("Insights")
             st.markdown(call.get("summary"))
+
+            st.subheader("Score")
+            st.metric("Score", call.get("successEvaluation"), border=True)
