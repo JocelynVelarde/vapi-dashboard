@@ -1,4 +1,4 @@
-# [GHW GenAI Week] Image Classification with YOLOE & GenAI 🖼️
+# [GHW GenAI Week] Voice-Powered GenAI with Vapi Part 2 📞
 Build conversational AI experiences that speak and listen. This session introduces Vapi and how you can connect voice inputs with generative AI to create real-time, voice-enabled applications.
 
 ## Features
